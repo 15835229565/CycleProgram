@@ -1,0 +1,11 @@
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\bin\Debug\CycleComputerProgram.exe.config
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\bin\Debug\CycleComputerProgram.exe
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\bin\Debug\CycleComputerProgram.pdb
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\obj\Debug\CycleComputerProgram.csprojResolveAssemblyReference.cache
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\obj\Debug\CycleComputerProgram.Form1.resources
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\obj\Debug\CycleComputerProgram.Properties.Resources.resources
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\obj\Debug\CycleComputerProgram.csproj.GenerateResource.Cache
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\obj\Debug\CycleComputerProgram.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\obj\Debug\CycleComputerProgram.exe
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\obj\Debug\CycleComputerProgram.pdb
+C:\Users\John\source\repos\CycleComputerProgram\CycleComputerProgram\bin\Debug\ZedGraph.dll
